@@ -1,7 +1,7 @@
 # NovexaNext SEO handover guide
 
 ## Important before deploying
-The exact production URL was not included in the supplied ZIP. This package therefore uses the visible placeholder `https://YOUR-VERCEL-DOMAIN.vercel.app`. **Replace every occurrence with your actual live domain** (including a custom domain if one is connected) in all HTML canonical/OG/schema URLs, `robots.txt`, and `sitemap.xml` before publishing. Do not submit the placeholder URLs to Google.
+The exact production URL was not included in the supplied ZIP. This package therefore uses the visible placeholder `https://krishna-kumar-portfolio-pied.vercel.app`. **Replace every occurrence with your actual live domain** (including a custom domain if one is connected) in all HTML canonical/OG/schema URLs, `robots.txt`, and `sitemap.xml` before publishing. Do not submit the placeholder URLs to Google.
 
 ## What changed
 - Added page-specific title tags and meta descriptions.

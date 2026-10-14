@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # SEO: Replace YOUR-VERCEL-DOMAIN with the actual production hostname.
-Sitemap: https://YOUR-VERCEL-DOMAIN.vercel.app/sitemap.xml
+Sitemap: https://krishna-kumar-portfolio-pied.vercel.app/sitemap.xml
