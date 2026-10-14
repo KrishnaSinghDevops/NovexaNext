@@ -1,0 +1,6 @@
+# SEO: Permit search engines to crawl public pages and static assets.
+User-agent: *
+Allow: /
+
+# SEO: Replace YOUR-VERCEL-DOMAIN with the actual production hostname.
+Sitemap: https://YOUR-VERCEL-DOMAIN.vercel.app/sitemap.xml
